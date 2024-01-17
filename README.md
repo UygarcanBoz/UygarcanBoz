@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page!
-My name is Can (pronounced just like John), computer engineering graduate from Turkey.
+My name is Can, computer engineering graduate from Turkey.
 
 Graduated in 2021. During my studies, I have acquired technical IT knowledge and skills as well as practical and business skills during my Erasmus+ internship in Lithuania. I'm eager to learn new languages, technologies and develop my skills.
